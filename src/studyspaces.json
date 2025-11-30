@@ -1,0 +1,15 @@
+[
+    {"id": 1, "image": "/studyspaces/alumnihall.jpg", "name": "Alumni Hall",  "campus": "North", "capacity": "120"},
+    {"id": 2, "image": "/studyspaces/lydon.jpg", "name": "LYD-110",  "campus": "North", "capacity": "60"},
+    {"id": 3, "image": "/studyspaces/coburn.jpg", "name": "COB-166",  "campus": "South", "capacity": "4"},
+    {"id": 4, "image": "/studyspaces/coburn.jpg", "name": "COB-210",  "campus": "South", "capacity": "19"},
+    {"id": 5, "image": "/studyspaces/olsen.jpg", "name": "OLS-103",  "campus": "North", "capacity": "24"},
+    {"id": 6, "image": "/studyspaces/olsen.jpg", "name": "OLS-322",  "campus": "North", "capacity": "34"},
+    {"id": 7, "image": "/studyspaces/ucrossing.jpg", "name": "UCC-490",  "campus": "East", "capacity": "26"},
+    {"id": 8, "image": "/studyspaces/ucrossing.jpg", "name": "UCC-492",  "campus": "East", "capacity": "16"},
+    {"id": 9, "image": "/studyspaces/wannalancit.jpg", "name": "WAN-405",  "campus": "East", "capacity": "20"},
+    {"id": 10, "image": "/studyspaces/wannalancit.jpg", "name": "WAN-403",  "campus": "East", "capacity": "18"},
+    {"id": 11, "image": "/studyspaces/hss.jpg", "name": "HSS-342",  "campus": "South", "capacity": "16"},
+    {"id": 12, "image": "/studyspaces/hss.jpg", "name": "HSS-492",  "campus": "South", "capacity": "16"}
+
+]
