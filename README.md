@@ -8,3 +8,5 @@ For outside resources, I consulted AI and [Tom Dekan's article](https://tomdekan
 In the future, I want to flesh out this project to include login info and a form for reserving a room. I also want to categorize spaces by campus and building. 
 
 I plan on deploying this project to Vercel.
+
+NOTE: Items are not retrieved automatically after typing in your input. You must hit the enter key after typing your input into the search bar.
